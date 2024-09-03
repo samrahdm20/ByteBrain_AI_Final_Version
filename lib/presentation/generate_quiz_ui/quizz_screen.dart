@@ -65,7 +65,6 @@ class _QuizzScreenState extends State<QuizzScreen> {
           'Quiz',
           style: TextStyle(color: Colors.white),
         ),
-        // backgroundColor: Colors.teal,
       ),
       body: FutureBuilder(
           future: askQuestions(),
