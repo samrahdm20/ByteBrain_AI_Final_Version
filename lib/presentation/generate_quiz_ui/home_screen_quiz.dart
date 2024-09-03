@@ -483,7 +483,7 @@ void _showSocialMediaDialog(BuildContext context) {
             children: [
               _buildSocialMediaButton(
                 'WhatsApp',
-                'https://api.whatsapp.com/send?phone=+62 82290815896&text=Assalamualaikum',
+                'https://api.whatsapp.com/send?phone=+6282290815896&text=Assalamualaikum',
                 FontAwesomeIcons.whatsapp,
               ),
               const SizedBox(

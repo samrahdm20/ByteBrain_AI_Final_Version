@@ -526,19 +526,9 @@ class _MainPageState extends State<ChatImage> {
               children: [
                 _buildSocialMediaButton(
                   'WhatsApp',
-                  'https://api.whatsapp.com/send?phone=+6282238482847&text=Hello,%20Chairil%20Ali',
+                  'https://api.whatsapp.com/send?phone=+6282290815896&text=Assalamualaikum',
                   FontAwesomeIcons.whatsapp,
                 ),
-                const SizedBox(
-                  height: 10,
-                ),
-                _buildSocialMediaButton('Instagram',
-                    'https://www.instagram.com/', FontAwesomeIcons.instagram),
-                const SizedBox(
-                  height: 10,
-                ),
-                _buildSocialMediaButton('Website Sekolah',
-                    'http://www.google.com/', FontAwesomeIcons.globe),
                 const SizedBox(
                   height: 10,
                 ),
